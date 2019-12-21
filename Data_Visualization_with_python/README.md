@@ -10,4 +10,5 @@ The project consisted of 2 parts.
             the Folium library in Python, of the crime rate in San Francisco. 
             
 **Languages:** Python 
+
 **Software:** Visual Studio Code
